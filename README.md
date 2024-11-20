@@ -17,7 +17,7 @@
   2. Navigate to the project directory.
   3. Run `npm install` to install necessary dependencies.
   4. Use `node index.js` to start the application.
-  5. 
+     
 
 ## Walkthrough Video
 
