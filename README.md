@@ -17,7 +17,12 @@
   2. Navigate to the project directory.
   3. Run `npm install` to install necessary dependencies.
   4. Use `node index.js` to start the application.
-  
+  5. 
+
+## Walkthrough Video
+
+Here’s a video walkthrough of how the README generator works:[Watch the Video](https://drive.google.com/file/d/1APaEIImunuo2TGQo2hOeCqv4Lx-eyiHh/view?usp=sharing)
+
 
   ## Usage
   Run the application using `node index.js` and follow the prompts. Enter details about your project, such as title, description, installation instructions, usage, and more. When finished, a README.md file will be generated with all your input.
